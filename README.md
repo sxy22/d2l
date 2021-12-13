@@ -1,2 +1,2 @@
 # d2l
-DL notes
+DL notes.
