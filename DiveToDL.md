@@ -14,19 +14,85 @@
 
 ![image-20210301200637163](https://gitee.com/sxy22/note_images/raw/master/image-20210301200637163.png)
 
-# 多层感知机
+# 4 多层感知机
 
 ## 多层网络
 
 ![image-20210301200743658](https://gitee.com/sxy22/note_images/raw/master/image-20210301200743658.png)
 
-#### 激活函数
+## 激活函数
 
 ![image-20210301200808276](https://gitee.com/sxy22/note_images/raw/master/image-20210301200808276.png)
 
+### RELU
+
+![image-20211216150204181](https://raw.githubusercontent.com/sxy22/notes_pic/main/image-20211216150204181.png)
+
+![image-20211216150233719](https://raw.githubusercontent.com/sxy22/notes_pic/main/image-20211216150233719.png)
 
 
-## 卷积神经网络
+
+![image-20211216150239775](https://raw.githubusercontent.com/sxy22/notes_pic/main/image-20211216150239775.png)
+
+
+
+使用ReLU的原因是，它求导表现得特别好：要么让参数消失，要么让参数通过。 这使得优化表现的更好，并且ReLU减轻了困扰以往神经网络的梯度消失问题
+
+
+
+### sigmoid
+
+![image-20211216150310847](https://raw.githubusercontent.com/sxy22/notes_pic/main/image-20211216150310847.png)
+
+![image-20211216150320703](https://raw.githubusercontent.com/sxy22/notes_pic/main/image-20211216150320703.png)
+
+
+
+# 权重衰减
+
+![image-20211216151224473](https://raw.githubusercontent.com/sxy22/notes_pic/main/image-20211216151224473.png)
+
+
+
+# Dropout
+
+我们希望模型深度挖掘特征，即将其权重分散到许多特征中， 而不是过于依赖少数潜在的虚假关联。
+
+经典泛化理论认为，为了缩小训练和测试性能之间的差距，应该以简单的模型为目标。
+
+![image-20211216152121297](https://raw.githubusercontent.com/sxy22/notes_pic/main/image-20211216152121297.png)
+
+
+
+# 数值稳定性和模型初始化
+
+## 梯度消失和梯度爆炸
+
+![image-20211216153415572](https://raw.githubusercontent.com/sxy22/notes_pic/main/image-20211216153415572.png)
+
+
+
+![image-20211216153422201](https://raw.githubusercontent.com/sxy22/notes_pic/main/image-20211216153422201.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 卷积神经网络
 
 ### 二维卷积层
 
@@ -157,7 +223,7 @@
 
 
 
-## 循环神经网络
+# 循环神经网络
 
 ### 语言模型 
 
@@ -223,7 +289,7 @@
 
 
 
-## 优化算法
+# 优化算法
 
 ### 动量法
 
