@@ -84,15 +84,29 @@
 
 
 
+# 归一化层 barch normalization
+
+训练深层神经网络是十分困难的，特别是在较短的时间内使他们收敛更加棘手。 在本节中，我们将介绍*批量规范化*（batch normalization这是一种流行且有效的技术，可持续加速深层网络的收敛速度。
+
+![image-20211218152926709](https://raw.githubusercontent.com/sxy22/notes_pic/main/image-20211218152926709.png)
+
+## 全连接层 归一
+
+![image-20211218153218483](https://raw.githubusercontent.com/sxy22/notes_pic/main/image-20211218153218483.png)
+
+## 卷积层 归一
+
+![image-20211218153308531](https://raw.githubusercontent.com/sxy22/notes_pic/main/image-20211218153308531.png)
 
 
 
+### 预测过程中的批量规范化
+
+![image-20211218154643355](https://raw.githubusercontent.com/sxy22/notes_pic/main/image-20211218154643355.png)
 
 
 
-
-
-# 卷积神经网络
+# 6 卷积神经网络
 
 ### 二维卷积层
 
@@ -193,21 +207,9 @@
 
 ![image-20210302213600989](C:\Users\91317\AppData\Roaming\Typora\typora-user-images\image-20210302213600989.png)
 
-### 归一化层 barch normalization
-
-#### 全连接层
 
 
-
-![image-20210302213932081](https://gitee.com/sxy22/note_images/raw/master/image-20210302213932081.png)
-
-![image-20210302214229044](https://gitee.com/sxy22/note_images/raw/master/image-20210302214229044.png)
-
-#### 卷积层
-
-![image-20210302214426108](https://gitee.com/sxy22/note_images/raw/master/image-20210302214426108.png)
-
-### 残差网络 ResNet
+## 残差网络 ResNet
 
 ![image-20210415210447960](https://gitee.com/sxy22/note_images/raw/master/image-20210415210447960.png)
 
