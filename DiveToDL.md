@@ -225,27 +225,33 @@
 
 
 
-# 循环神经网络
+# 8 循环神经网络
 
-### 语言模型 
+## 语言模型 
 
 ![image-20210416205726845](https://gitee.com/sxy22/note_images/raw/master/image-20210416205726845.png)
 
-### 含隐藏状态的循环神经网络
 
-![image-20210416210710577](https://gitee.com/sxy22/note_images/raw/master/image-20210416210710577.png)
 
-![image-20210416211049143](https://gitee.com/sxy22/note_images/raw/master/image-20210416211049143.png)
+## 采样
 
-### 采样
 
-#### 随机采样
 
 ![image-20210416214731790](https://gitee.com/sxy22/note_images/raw/master/image-20210416214731790.png)
 
 
 
-### 反向传播 梯度不稳定
+## 有隐状态的循环神经网络
+
+![image-20211219154944205](https://raw.githubusercontent.com/sxy22/notes_pic/main/image-20211219154944205.png)
+
+![image-20211219155159967](https://raw.githubusercontent.com/sxy22/notes_pic/main/image-20211219155159967.png)
+
+![image-20211219155214305](https://raw.githubusercontent.com/sxy22/notes_pic/main/image-20211219155214305.png)
+
+
+
+## 反向传播 梯度不稳定
 
 ![image-20210417215028422](https://gitee.com/sxy22/note_images/raw/master/image-20210417215028422.png)
 
