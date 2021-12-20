@@ -257,7 +257,7 @@
 
 ![image-20210417215039956](https://gitee.com/sxy22/note_images/raw/master/image-20210417215039956.png)
 
-### 门控
+## 门控
 
 ![image-20210419223521156](https://gitee.com/sxy22/note_images/raw/master/image-20210419223521156.png)
 
@@ -271,7 +271,15 @@
 
 ![image-20210419223922321](https://gitee.com/sxy22/note_images/raw/master/image-20210419223922321.png)
 
-### LSTM
+![image-20211220151819777](https://raw.githubusercontent.com/sxy22/notes_pic/main/image-20211220151819777.png)
+
+
+
+
+
+
+
+## LSTM
 
 ![image-20210420200828398](https://gitee.com/sxy22/note_images/raw/master/image-20210420200828398.png)
 
@@ -281,15 +289,21 @@
 
 ![image-20210420200857750](https://gitee.com/sxy22/note_images/raw/master/image-20210420200857750.png)
 
-![image-20210420200907840](https://gitee.com/sxy22/note_images/raw/master/image-20210420200907840.png)
+![image-20211220152511053](https://raw.githubusercontent.com/sxy22/notes_pic/main/image-20211220152511053.png)
 
-### 深度CNN
+
+
+
+
+
+
+## 深度CNN
 
 ![image-20210420201806381](https://gitee.com/sxy22/note_images/raw/master/image-20210420201806381.png)
 
 ![image-20210420202458413](https://gitee.com/sxy22/note_images/raw/master/image-20210420202458413.png)
 
-### 双向循环神经⽹络
+## 双向循环神经⽹络
 
 ![image-20210420211836385](https://gitee.com/sxy22/note_images/raw/master/image-20210420211836385.png)
 
