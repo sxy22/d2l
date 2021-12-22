@@ -213,9 +213,9 @@
 
 ![image-20210415210447960](https://gitee.com/sxy22/note_images/raw/master/image-20210415210447960.png)
 
-![image-20210415210636695](https://gitee.com/sxy22/note_images/raw/master/image-20210415210636695.png)
 
-![image-20210415212222903](https://gitee.com/sxy22/note_images/raw/master/image-20210415212222903.png)
+
+![image-20211222154348345](https://raw.githubusercontent.com/sxy22/notes_pic/main/image-20211222154348345.png)
 
 
 
@@ -305,9 +305,31 @@
 
 ## 双向循环神经⽹络
 
-![image-20210420211836385](https://gitee.com/sxy22/note_images/raw/master/image-20210420211836385.png)
+![image-20211222151840812](https://raw.githubusercontent.com/sxy22/notes_pic/main/image-20211222151840812.png)
 
-![image-20210420212143943](https://gitee.com/sxy22/note_images/raw/master/image-20210420212143943.png)
+![image-20211222152016640](https://raw.githubusercontent.com/sxy22/notes_pic/main/image-20211222152016640.png)
+
+
+
+# seq2seq
+
+![image-20211222152820342](https://raw.githubusercontent.com/sxy22/notes_pic/main/image-20211222152820342.png)
+
+![image-20211222154934826](https://raw.githubusercontent.com/sxy22/notes_pic/main/image-20211222154934826.png)
+
+### 编码器
+
+![image-20211222155326431](https://raw.githubusercontent.com/sxy22/notes_pic/main/image-20211222155326431.png)
+
+
+
+### 解码器
+
+![image-20211222155842815](https://raw.githubusercontent.com/sxy22/notes_pic/main/image-20211222155842815.png)
+
+### 预测
+
+![image-20211222162620960](https://raw.githubusercontent.com/sxy22/notes_pic/main/image-20211222162620960.png)
 
 
 
