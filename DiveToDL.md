@@ -333,6 +333,26 @@
 
 
 
+# Attention
+
+![image-20211224142107945](https://raw.githubusercontent.com/sxy22/notes_pic/main/image-20211224142107945.png)
+
+###  注意力评分函数
+
+![image-20211224144731331](https://raw.githubusercontent.com/sxy22/notes_pic/main/image-20211224144731331.png)
+
+### 多头注意力
+
+![image-20211224145715801](https://raw.githubusercontent.com/sxy22/notes_pic/main/image-20211224145715801.png)
+
+
+
+![image-20211224145725735](https://raw.githubusercontent.com/sxy22/notes_pic/main/image-20211224145725735.png)
+
+
+
+
+
 # 优化算法
 
 ### 动量法
