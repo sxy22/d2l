@@ -313,7 +313,7 @@
 
 # seq2seq
 
-![image-20211222152820342](https://raw.githubusercontent.com/sxy22/notes_pic/main/image-20211222152820342.png)
+![](https://raw.githubusercontent.com/sxy22/notes_pic/main/image-20211222152820342.png)
 
 ![image-20211222154934826](https://raw.githubusercontent.com/sxy22/notes_pic/main/image-20211222154934826.png)
 
@@ -351,11 +351,37 @@
 
 
 
+### self attention
 
+![image-20220101162220320](https://raw.githubusercontent.com/sxy22/notes_pic/main/image-20220101162220320.png)
+
+
+
+### Transformer
+
+![image-20220106145229170](https://raw.githubusercontent.com/sxy22/notes_pic/main/image-20220106145229170.png)
+
+![image-20220106145216104](https://raw.githubusercontent.com/sxy22/notes_pic/main/image-20220106145216104.png)
 
 # 优化算法
 
-### 动量法
+## 随机梯度下降
+
+![image-20220106150900395](https://raw.githubusercontent.com/sxy22/notes_pic/main/image-20220106150900395.png)
+
+####  动态学习率
+
+![image-20220106151127555](https://raw.githubusercontent.com/sxy22/notes_pic/main/image-20220106151127555.png)
+
+#### 小批量随机梯度下降
+
+使用小批量的决策的核心是计算效率
+
+![image-20220106151753684](https://raw.githubusercontent.com/sxy22/notes_pic/main/image-20220106151753684.png)
+
+
+
+## 动量法
 
 ![image-20210421232012562](https://gitee.com/sxy22/note_images/raw/master/image-20210421232012562.png)
 
@@ -363,23 +389,23 @@
 
 ![image-20210421232041809](https://gitee.com/sxy22/note_images/raw/master/image-20210421232041809.png)
 
-### AdaGrad算法
+## AdaGrad算法
 
 ![image-20210421235612565](https://gitee.com/sxy22/note_images/raw/master/image-20210421235612565.png)
 
 ![image-20210421235709499](https://gitee.com/sxy22/note_images/raw/master/image-20210421235709499.png)
 
-### RMSProp算法
+## RMSProp算法
 
 ![image-20210421235952806](https://gitee.com/sxy22/note_images/raw/master/image-20210421235952806.png)
 
-### AdaDelta算法
+## AdaDelta算法
 
 ![image-20210422000332763](https://gitee.com/sxy22/note_images/raw/master/image-20210422000332763.png)
 
 ![image-20210422000338275](https://gitee.com/sxy22/note_images/raw/master/image-20210422000338275.png)
 
-### Adam算法
+## Adam算法
 
 Adam算法在RMSProp算法基础上对小批量随机梯度也做了指数加权移动平均
 
