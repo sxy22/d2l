@@ -391,6 +391,10 @@
 
 ## AdaGrad算法
 
+![image-20220107141952454](https://raw.githubusercontent.com/sxy22/notes_pic/main/image-20220107141952454.png)
+
+
+
 ![image-20210421235612565](https://gitee.com/sxy22/note_images/raw/master/image-20210421235612565.png)
 
 ![image-20210421235709499](https://gitee.com/sxy22/note_images/raw/master/image-20210421235709499.png)
