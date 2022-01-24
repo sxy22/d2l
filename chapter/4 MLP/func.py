@@ -79,11 +79,11 @@ def train_epoch_ch3(net, train_iter, loss, updater):  # @save
         if isinstance(updater, torch.optim.Optimizer):
             # 使用PyTorch内置的优化器和损失函数
             updater.zero_grad()
-            l.sum().backward()
+            l.mean().backward()
             updater.step()
         else:
             # 使用定制的优化器和损失函数
-            l.sum().backward()
+            l.mean().backward()
             updater(X.shape[0])
         metric.add(float(l.sum()), accuracy(y_hat, y), y.numel())
     # 返回训练损失和训练精度
